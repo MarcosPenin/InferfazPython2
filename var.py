@@ -1,0 +1,11 @@
+global ui
+global dlgSlr
+global dlgCalendar
+global saldo
+global fechaValida
+global dniCorrecto
+global operacion
+global avisoEdad
+global avisoDatos
+global avisoCantidad
+global avisoDNI
